@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "F:\\gopath\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout1\\cmd\\layout1\\main.go",
+            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout1\\cmd\\layout1\\main.go",
             "env": {},
             "args": []
         },
@@ -18,7 +18,34 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "F:\\gopath\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout2\\cmd\\layout2\\main.go",
+            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout2\\cmd\\layout2\\main.go",
+            "env": {},
+            "args": []
+        },
+        {
+            "name": "Layout3",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout3\\cmd\\layout3\\main.go",
+            "env": {},
+            "args": []
+        },
+        {
+            "name": "Layout4",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout4\\cmd\\layout4\\main.go",
+            "env": {},
+            "args": []
+        },
+        {
+            "name": "Layout5",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout5\\cmd\\layout5\\main.go",
             "env": {},
             "args": []
         }
