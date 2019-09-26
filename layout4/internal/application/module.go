@@ -3,7 +3,7 @@ package application
 import (
 	"fmt"
 
-	pkg "github.com/SpacedMonkeyTCT/comparelayout/layout2/pkg/interface"
+	"github.com/SpacedMonkeyTCT/comparelayout/layout4/pkg"
 )
 
 // Framework ...

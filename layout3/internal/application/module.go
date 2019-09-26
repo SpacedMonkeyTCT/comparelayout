@@ -3,8 +3,8 @@ package application
 import (
 	"fmt"
 
-	component "github.com/SpacedMonkeyTCT/comparelayout/layout1/pkg/component/interface"
-	component2 "github.com/SpacedMonkeyTCT/comparelayout/layout1/pkg/component2/interface"
+	"github.com/SpacedMonkeyTCT/comparelayout/layout3/pkg/component"
+	"github.com/SpacedMonkeyTCT/comparelayout/layout3/pkg/component2"
 )
 
 // Framework ...
