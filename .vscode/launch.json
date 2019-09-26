@@ -55,7 +55,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout6\\cmd\\layout5\\main.go",
+            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout6\\cmd\\layout6\\main.go",
             "env": {},
             "args": []
         }
