@@ -48,14 +48,22 @@
             "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout5\\cmd\\layout5\\main.go",
             "env": {},
             "args": []
-        }
-        ,
+        },
         {
             "name": "Layout6",
             "type": "go",
             "request": "launch",
             "mode": "auto",
             "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout6\\cmd\\layout6\\main.go",
+            "env": {},
+            "args": []
+        },
+        {
+            "name": "Layout7",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${env:GOPATH}\\src\\github.com\\SpacedMonkeyTCT\\comparelayout\\layout7\\cmd\\layout7\\main.go",
             "env": {},
             "args": []
         }
